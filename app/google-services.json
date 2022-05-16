@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "704255077333",
+    "project_id": "water-note",
+    "storage_bucket": "water-note.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704255077333:android:ad4545cf26b317cd5e6b5c",
+        "android_client_info": {
+          "package_name": "com.azom.water_note_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704255077333-vn112ro935fdviv9iaa3b60vpao3hsc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDORCVTgN1lyWnh_Q3SNqNgu_VNlISE3CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704255077333-vn112ro935fdviv9iaa3b60vpao3hsc8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704255077333-jdfm2equ1tc3mjm54ernlakl14b1p5sm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.azom.azomProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704255077333:android:7efd094672d498575e6b5c",
+        "android_client_info": {
+          "package_name": "com.water_note.azom_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704255077333-d2294osbu277q0fogf7ooiim94tcud2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.water_note.azom_project",
+            "certificate_hash": "c3a3abdd54c45aa7ec7171eff409a57a0d296d5a"
+          }
+        },
+        {
+          "client_id": "704255077333-vn112ro935fdviv9iaa3b60vpao3hsc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDORCVTgN1lyWnh_Q3SNqNgu_VNlISE3CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704255077333-vn112ro935fdviv9iaa3b60vpao3hsc8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704255077333-jdfm2equ1tc3mjm54ernlakl14b1p5sm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.azom.azomProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
